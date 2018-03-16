@@ -2,7 +2,7 @@
     var height = window.height;
     var w = window.innerWidth;
     $("#divRightBar").css("height", w);
-    var cHeight = $("#idHeader").height() - 2000;
+    var cHeight = $("#idHeader").height() - 2300;
     $("#divScrollBar").mCustomScrollbar({
         axis: "y",
         live: true,
